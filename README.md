@@ -1,21 +1,17 @@
-# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙁𝙖𝙙𝙬𝙖 
-
+# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙁𝙖𝙙𝙬𝙖  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&width=600&lines=Software+Engineer;ASP.NET+Core+Developer;Problem+Solving;Backend+Focused" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&width=600&lines=Software+Engineer;ASP.NET+Core+Developer;Problem+Solving;Backend+%26+Quality+Focused" />
 </p>
 
 ---
 
 ## About Me 💫
 
-Software Engineer focused on backend development and building scalable systems.  
-Passionate about clean architecture, elegant solutions, and continuous growth.
-
-- ⚙️ Backend Development with ASP.NET Core  
-- 🗄 Database Design & Optimization (MySQL, SQL)  
-- 🧠 Strong in Algorithms & Data Structures  
-- ✨ Writing clean, maintainable code  
+:computer Software Engineer focused on building clean & scalable backend systems  
+🧠 Strong in Problem Solving, Algorithms & Logical Thinking  
+📝 Experienced in Quality Assurance & Technical Documentation  
+✨ Committed to writing maintainable, well-structured code  
 
 ---
 
@@ -28,7 +24,7 @@ Passionate about clean architecture, elegant solutions, and continuous growth.
 
 ---
 
-## Backend & Technologies 🌷
+## Backend & Technologies ⚙️
 
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-ff85c1?style=flat-square&logo=dotnet&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-ff9ecf?style=flat-square)
@@ -39,7 +35,20 @@ Passionate about clean architecture, elegant solutions, and continuous growth.
 
 ---
 
-## Tools 🌼
+## Quality & Documentation 📝
+
+![QA](https://img.shields.io/badge/-Quality%20Assurance-ff9ecf?style=flat-square)
+![Software Testing](https://img.shields.io/badge/-Software%20Testing-ffc0cb?style=flat-square)
+![Technical Documentation](https://img.shields.io/badge/-Technical%20Documentation-ffb6c1?style=flat-square)
+
+- Requirement analysis & validation  
+- Writing clear technical and API documentation  
+- Designing test cases & performing manual testing  
+- Ensuring software reliability and quality standards  
+
+---
+
+## Tools 🔗
 
 ![Git](https://img.shields.io/badge/-Git-ff9ecf?style=flat-square&logo=git&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-ff85c1?style=flat-square&logo=visual-studio&logoColor=white)
@@ -52,7 +61,7 @@ Passionate about clean architecture, elegant solutions, and continuous growth.
 - Improving system design fundamentals  
 - Practicing advanced problem solving  
 - Enhancing API performance & security  
-- Exploring cloud basics  
+- Exploring cloud fundamentals  
 
 ---
 
