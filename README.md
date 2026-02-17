@@ -8,7 +8,7 @@
 
 ## About Me 💫
 
-:computer Software Engineer focused on building clean & scalable backend systems  
+:computer: Software Engineer focused on building clean & scalable backend systems  
 🧠 Strong in Problem Solving, Algorithms & Logical Thinking  
 📝 Experienced in Quality Assurance & Technical Documentation  
 ✨ Committed to writing maintainable, well-structured code  
